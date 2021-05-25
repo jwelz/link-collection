@@ -3,11 +3,11 @@
 ## Mandatory
 
 * [isocpp](https://isocpp.org)
-
   * [C++ compiler support](https://en.cppreference.com/w/cpp/compiler_support)
+  * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#main)
 
 * [cppreference](cppreference.com)
-  *  [Archives](https://en.cppreference.com/w/Cppreference:Archives)
+  * [Archives](https://en.cppreference.com/w/Cppreference:Archives)
 
 ## Online Compilers
 
