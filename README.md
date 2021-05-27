@@ -5,3 +5,5 @@
 * [Blogs](README_blogs.md)
 
 * [Misc/Articles](README_misc_articles.md)
+
+* [Python](README_python.md)
