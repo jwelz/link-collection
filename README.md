@@ -7,3 +7,5 @@
 * [Misc/Articles](README_misc_articles.md)
 
 * [Python](README_python.md)
+
+* [Cheatsheet collection](https://github.com/LeCoupa/awesome-cheatsheets)
