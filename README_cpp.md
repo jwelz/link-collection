@@ -24,6 +24,7 @@
 * [fluent{C++}](https://www.fluentcpp.com)
   * Daily C++
   * World map of STL algorithms
+* [Refactoring Guru](https://refactoring.guru/): Tips and design patterns
 * [C++ Weekly](https://www.youtube.com/watch?v=vLhr_y4YOIY) by Jason Turner
 
 * [Modern Code](https://www.nosid.org): SWIFT, C++, Java (German only)
