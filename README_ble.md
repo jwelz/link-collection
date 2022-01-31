@@ -9,4 +9,4 @@
 * [Custom advertisement](https://devzone.nordicsemi.com/f/nordic-q-a/8854/fully-custom-advertisement-data)
 * [Changning Phy to coded results](https://devzone.nordicsemi.com/f/nordic-q-a/82753/changing-phy-to-coded-results-in-1m)
 * [Multiple notifications in one connection interval](https://devzone.nordicsemi.com/f/nordic-q-a/69173/transmitting-multiple-notifications-in-one-connection-interval)
-
+* [NUS service on bonded device - speed up](https://devzone.nordicsemi.com/f/nordic-q-a/59957/use-nus-service-on-bonded-devices-without-discovery)
