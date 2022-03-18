@@ -10,4 +10,6 @@
 
 * [Cheatsheet collection](https://github.com/LeCoupa/awesome-cheatsheets)
 
+* [Tools](README_tools.md)
+
 * [BLE](README_ble.md)
