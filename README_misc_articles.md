@@ -4,6 +4,9 @@
 
 * [Was, bitteschön, war nochmal Closed Source? ](https://www.dev-insider.de/was-bitteschoen-war-nochmal-closed-source-a-1011499/?cmp=nl-365&uuid=)
 
+## Craftsmanship
+* [Approxion: Code - People - Everything](https://www.approxion.com/)
+
 ## Agile
 
 * [Bay XP Meeting Part 1: Agile Estimation, Mike Cohn](https://www.youtube.com/watch?v=fb9Rzyi8b90)
