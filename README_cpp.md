@@ -9,6 +9,8 @@
 * [cppreference](cppreference.com)
   * [Archives](https://en.cppreference.com/w/Cppreference:Archives)
 
+* [gcc Flags recommendations](https://interrupt.memfault.com/blog/best-and-worst-gcc-clang-compiler-flags)
+
 ## Online Compilers
 
 * [godbolt](https://godbolt.org/)
