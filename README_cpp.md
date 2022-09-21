@@ -3,8 +3,9 @@
 ## Mandatory
 
 * [isocpp](https://isocpp.org)
-  * [C++ compiler support](https://en.cppreference.com/w/cpp/compiler_support)
-  * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#main)
+* [C++ compiler support](https://en.cppreference.com/w/cpp/compiler_support)
+* [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#main)
+
 
 * [cppreference](cppreference.com)
   * [Archives](https://en.cppreference.com/w/Cppreference:Archives)
@@ -43,6 +44,7 @@
   * [Liskov’s Substitution Principle](http://www.vishalchovatiya.com/liskovs-substitution-principle-in-cpp-solid-as-a-rock/)
   * ...
 * [Usage of empty structs in C++](https://stackoverflow.com/questions/60685261/usage-of-empty-structs-in-c)
+* [Book Review: “The Art of Readable Code” by Dustin Boswell and Trevor Foucher](https://embeddeduse.com/2022/01/14/book-review-the-art-of-readable-code-by-dustin-boswell-and-trevor-foucher/)
 
 ## Books/Guides/Papers
 
@@ -55,6 +57,7 @@
 * [C++ Templates with Virtual Functions?](https://rivermatrix.com/c-templates-with-virtual-functions/)
 * [Modern C++ Design](https://en.wikipedia.org/wiki/Modern_C%2B%2B_Design#Policy-based_design) - explains *Policy-based design*
 * [Writing Secure Code](https://www.goodreads.com/book/show/44916.Writing_Secure_Code) by  Michael Howard and David LeBlanc
+* [Optimization](https://www.agner.org/optimize)
 
 ## Frameworks
 

@@ -6,6 +6,7 @@
 
 ## Craftsmanship
 * [Approxion: Code - People - Everything](https://www.approxion.com/)
+* [Programmierprinzipien nach John Romero](https://itst.net/3853-die-programmierprinzipien-nach-john-romero), Recording [Quake Haus](https://www.quakehaus.com/news/9724/die-programmierprinzipien-nach-john-romero/)
 
 ## Agile
 
