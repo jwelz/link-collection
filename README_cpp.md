@@ -5,12 +5,14 @@
 * [isocpp](https://isocpp.org)
 * [C++ compiler support](https://en.cppreference.com/w/cpp/compiler_support)
 * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#main)
+* [GSL: Guidelines Support Library](https://github.com/Microsoft/GSL)
 
 
 * [cppreference](cppreference.com)
-  * [Archives](https://en.cppreference.com/w/Cppreference:Archives)
+* [Archives](https://en.cppreference.com/w/Cppreference:Archives)
 
 * [gcc Flags recommendations](https://interrupt.memfault.com/blog/best-and-worst-gcc-clang-compiler-flags)
+* [Range-Based For-Loops - pitfalls](https://open-std.org/jtc1/sc22/wg21/docs/papers/2014/n3853.htm)
 
 ## Online Compilers
 

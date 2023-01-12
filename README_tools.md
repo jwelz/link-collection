@@ -2,3 +2,7 @@
 
 ## CMD/Dos
 * [mtee - retains exit code of the piped process](https://ritchielawrence.github.io/mtee/)
+
+## Wave form & Schematics editor
+
+* [WaveDrom - Digital Timing Diagram everywhere](https://wavedrom.com/)
