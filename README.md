@@ -17,3 +17,5 @@
 * [Ceedling](README_ceedling.md)
 
 * [GIT](README_git.md)
+
+* [Troubleshooting](README_troubleshooting.md)
