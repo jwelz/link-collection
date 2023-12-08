@@ -48,9 +48,12 @@
 * [Usage of empty structs in C++](https://stackoverflow.com/questions/60685261/usage-of-empty-structs-in-c)
 * [Book Review: “The Art of Readable Code” by Dustin Boswell and Trevor Foucher](https://embeddeduse.com/2022/01/14/book-review-the-art-of-readable-code-by-dustin-boswell-and-trevor-foucher/)
 
+* [Vishal Chovatiya](https://www.vishalchovatiya.com/start-here/)
+  - All About Lambda Function in C++, From C++11 to C++20: ![Cheat sheet](ressources/cheat-sheets/Learn-lambda-function-in-C-with-example.png)
+
 ## Books/Guides/Papers
 
-* [Effictive C++](https://www.aristeia.com/books.html) and other good stuff by Scott Meyers 
+* [Effictive C++](https://www.aristeia.com/books.html) and other good stuff by Scott Meyers
 * [cppbestpractices](https://lefticus.gitbooks.io/cpp-best-practices/content/)
 * [Practical Guide to Bare Metal C++](https://alex-robenko.gitbook.io/bare_metal_cpp)
 * [nextptr](https://www.nextptr.com/)
