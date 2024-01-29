@@ -63,6 +63,7 @@
 * [Modern C++ Design](https://en.wikipedia.org/wiki/Modern_C%2B%2B_Design#Policy-based_design) - explains *Policy-based design*
 * [Writing Secure Code](https://www.goodreads.com/book/show/44916.Writing_Secure_Code) by  Michael Howard and David LeBlanc
 * [Optimization](https://www.agner.org/optimize)
+* [C++ Tutorial Home - 2020](https://www.bogotobogo.com/cplusplus/cpptut.php)
 
 ## Frameworks
 
@@ -76,3 +77,6 @@
 
 * [C++ Mythbusting with Victor and Jason](https://www.youtube.com/watch?v=Bu1AEze14Ns): Victor And Jason Bust Some C++ Myths Live!
 Comment: *I love seeing people with 10/20+ years experience still messing around and... messing up. It gives me hope that maybe some day, I too will mess up with such grace and so much knowledge in the back of my head :D I'm on much lower level and more in C, rather than C++ but I'll get there, with your help maybe sooner! :) Thanks for this videos, great guest, great topic, awesome channel :)*
+* Scott Meyers [An Effective C++11/14 Sampler](https://www.bogotobogo.com/cplusplus/cpptut.php) - quite old but a nice and funny lecture on *std::move*, *std::forward* - I love Scots humor ;-)
+
+* [Virtual Yosemite tour](https://www.virtualyosemite.org/virtual-tour/#node145) by Scot Highton
