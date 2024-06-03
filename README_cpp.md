@@ -3,6 +3,7 @@
 ## Mandatory
 
 * [isocpp](https://isocpp.org)
+  * [Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 * [C++ compiler support](https://en.cppreference.com/w/cpp/compiler_support)
 * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#main)
 * [GSL: Guidelines Support Library](https://github.com/Microsoft/GSL)
@@ -25,6 +26,9 @@
 * [C++ Stories](https://www.cppstories.com)
   * [C++20 concepts](https://www.cppstories.com/2021/concepts-intro/)
   * [Polymorphic allocators](https://www.cppstories.com/2020/06/pmr-hacking.html/)
+
+* [Bjarne Stroustrup](https://www.stroustrup.com)
+  * [Glossary](https://www.stroustrup.com/glossary.html)
 
 * [fluent{C++}](https://www.fluentcpp.com)
   * Daily C++

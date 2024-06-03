@@ -6,6 +6,8 @@
 
 * [Misc/Articles](README_misc_articles.md)
 
+* [Regulatory](README_regulatory.md)
+
 * [Python](README_python.md)
 
 * [Cheatsheet collection](https://github.com/LeCoupa/awesome-cheatsheets)
