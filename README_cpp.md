@@ -15,6 +15,10 @@
 * [gcc Flags recommendations](https://interrupt.memfault.com/blog/best-and-worst-gcc-clang-compiler-flags)
 * [Range-Based For-Loops - pitfalls](https://open-std.org/jtc1/sc22/wg21/docs/papers/2014/n3853.htm)
 
+* [What does C++ Object Layout Look Like?](https://nimrod.blog/posts/what-does-cpp-object-layout-look-like/)
+
+* [C++ 'using' and 'using typename' in a header file](https://stackoverflow.com/questions/51883423/c-using-and-using-typename-in-a-header-file)
+
 ## Online Compilers
 
 * [godbolt](https://godbolt.org/)
@@ -55,6 +59,9 @@
 * [Vishal Chovatiya](https://www.vishalchovatiya.com/start-here/)
   - All About Lambda Function in C++, From C++11 to C++20: ![Cheat sheet](ressources/cheat-sheets/Learn-lambda-function-in-C-with-example.png)
 
+* [John Farrier](https://johnfarrier.com/powerful-tips-and-techniques-for-stdmutex-in-c/)
+* [MC++ Rainer Grimm](https://www.modernescpp.com/index.php/automatic-return-type-c-11-14-20/)
+
 ## Books/Guides/Papers
 
 * [Effictive C++](https://www.aristeia.com/books.html) and other good stuff by Scott Meyers
@@ -76,6 +83,8 @@
 * [Embedded C++ Library](https://github.com/arobenko/embxx) (see *Practical Guide to Bare Metal C++*)
 * [implot](https://github.com/epezent/implot)
 * [imgui](https://github.com/ocornut/imgui/issues/2529)
+* Standalone printf/sprintf formatted printing function library [printf](https://github.com/eyalroz/printf)
+* [Reducing {fmt} library size 4x using Bloaty McBloatface](https://vitaut.net/posts/2020/reducing-library-size/)
 
 ## Fun stuff
 
